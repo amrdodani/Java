@@ -12,9 +12,23 @@ public class LessonTwo {
 			
 	String name = scanner.nextLine();		
 	
+	System.out.print("How old are you?: ");
 	
-			
+	int age = scanner.nextInt();
 	
+	scanner.nextLine();
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	scanner.close();
 
 	}
 

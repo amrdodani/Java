@@ -54,6 +54,8 @@ public class LessonTwo {
 				+" I will get " + increase +" as annual rasie so my total salary will would be"+ newsalary + "next year.");
 	
 	
+		
+
 	scanner.nextLine();
 	
 
